@@ -15,7 +15,9 @@ function Body() {
           <h1 className="font-wight-light">My Learning</h1>
           <h4>
             Here, I'm going to show you some of the technologies I have picked
-            up so far. This is only the beginning. I got so much more to learn!
+            up so far. This is only the beginning. I have so much more to learn!
+            My 1st few techologies was VS Code, HTML, CSS, Developer Tools and
+            JavaScript.
           </h4>
         </Col>
       </Row>
